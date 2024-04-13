@@ -49,7 +49,7 @@ body {
 }
 
 .relogio div {
-    height: 170px;
+    height:170px;
     width: 150px;
     display: flex;
     flex-direction: column;
